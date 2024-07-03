@@ -20,7 +20,7 @@ padding: 24px 0;
    font-size: 34px;
 }
 .agricultura-imagem{
-    width: 65%;
+    width: 24%;
 
 }
 }
@@ -38,6 +38,17 @@ padding: 24px 0;
     }
     
     .agricultura-titulo{
-     padding: 24px 0;  
+     padding: 34px 0;  
     }
-    
+.agricultura-titulo{
+    font-size: 45px;
+}
+.agricultura-texto-um{
+    font-size: 30px;
+}
+.agricultura-texto-dois{
+    font-size: 30px;
+}
+.agricultura-texto-tres{
+    font-size: 40px;
+}
